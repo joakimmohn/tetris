@@ -1,0 +1,11 @@
+/* some style */
+
+#header {
+    color: white;
+    font-family: Helvetica;
+    border-bottom: solid;
+}
+
+#ghlink {
+    color: #69bbed;
+}
